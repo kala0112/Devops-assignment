@@ -3,5 +3,7 @@ A simple Hello World app inspired by the steps from Heroku document "Create a Ja
 To run locally after cloning the repo,
 
 1. mvn package
-2. sh target/bin/webapp 
+2. sh target/bin/webapp
+
+**************
 
